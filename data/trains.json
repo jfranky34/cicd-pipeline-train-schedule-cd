@@ -37,6 +37,25 @@
 			]
 		},
 		{
+			"name": "Orient Express",
+			"stops": [
+				{
+					"station": "Sycamore",
+					"status": "ON-TIME",
+					"arrival": "12:00pm",
+					"departure": "12:10pm"
+				},
+				{
+					"station": "Cypress",
+					"status": "DELAYED",
+					"arrival": "1:00pm",
+					"departure": "1:10pm",
+					"delayedArrival": "1:07pm",
+					"delayedDeparture": "1:17pm"
+				}
+			]
+		},
+		{
 			"name": "Golden Arrow",
 			"stops": [
 				{
