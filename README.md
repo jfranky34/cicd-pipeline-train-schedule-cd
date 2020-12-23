@@ -17,3 +17,7 @@ Once it is running, you can access it in a browser at [http://localhost:3000](ht
 ===============================
 This is a test for Git & Github. 
 We want ensure we can push and pull code from Github.
+
+++++++++++++++++++++++++++++++
+Making changes in Github directly 
+We are going to pull and make changes on our local machine.
